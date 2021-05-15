@@ -1,5 +1,5 @@
 ### Simon Lloyd
- Please click here for my website: https://sites.google.com/view/splloyd/
+ [Please click here for my website:](https://sites.google.com/view/splloyd/)
 
 <!--
 **splloyd-econ/splloyd-econ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
